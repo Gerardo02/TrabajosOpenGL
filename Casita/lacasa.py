@@ -3,7 +3,6 @@ from glew_wish import *
 import glfw
 from math import *
 
-
 def dibujarArbol():
     glColor(0.7, 0.4, 0.2)
     glBegin(GL_QUADS)
